@@ -1,0 +1,17 @@
+{
+    "name": "changaone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/changaone-bower.git"
+    },
+    "description": "Changa One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
